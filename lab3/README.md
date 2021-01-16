@@ -10,3 +10,5 @@
   - [op_relations.py](https://github.com/DenisYakovlev/KP92-Yakovlev-BD/blob/master/lab3/op_relations.py)
   - [orders.py](https://github.com/DenisYakovlev/KP92-Yakovlev-BD/blob/master/lab3/orders.py)
   - [products.py](https://github.com/DenisYakovlev/KP92-Yakovlev-BD/blob/master/lab3/products.py)
+  - [pgsql_backend.py](https://github.com/DenisYakovlev/KP92-Yakovlev-BD/blob/master/lab3/pgsql_backend.py)
+  - [cui.py](https://github.com/DenisYakovlev/KP92-Yakovlev-BD/blob/master/lab3/cui.py)
